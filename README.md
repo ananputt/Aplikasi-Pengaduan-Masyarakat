@@ -1,5 +1,7 @@
 # Aplikasi-Pengaduan-Masyarakat
 
+Aplikasi ini dikembangkan dengan menggunakan: PHP Versi 7.2.24 PHP Framework Codeigniter 4.0.5 MySQL 14.14
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
